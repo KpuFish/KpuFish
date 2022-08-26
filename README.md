@@ -1,14 +1,15 @@
 --------------------------------------------------------------------
 ### Welcom 👋
 
-### i have majored in electronic engineering,
+### i have majored in electronic engineering
 
 ### Now i'm firmware engineer with 4-years experienced <2022.08>
 
 ### used mcu is
 - stm32f0 or f4 or m7
-- raspberry pi 3
-- rp2040 for simple test (host os is windows 10)
+- raspberry pi 3 (host os is windows 10 with virtual machine linux)
+- rp2040 for simple test (host os is windows 10 only)
+- atmega 128
 --------------------------------------------------------------------
 
 <!--
