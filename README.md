@@ -3,13 +3,18 @@
 
 ### i have majored in electronic engineering
 
-### expertise in firmware design
+### expertise in firmware, hardware design
+F/W
 - semi-auto control for equipment (ISO-13851)
 - emergecny door operation design with ce
 - multi channel adc and timing valve control
 - step motor control using serial protocol
 - bootloader for mcu
 
+H/W
+- mcu logic design
+- pba debug (power/logic)
+- i2c/adc/spi/fsmc/uart/rs-485/ethernet interface
 
 ### Now i'm firmware engineer with 4-years experienced <2022.08>
 
