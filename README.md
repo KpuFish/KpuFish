@@ -1,11 +1,19 @@
 --------------------------------------------------------------------
-### Welcom 👋
+### Hellow Embedded System World 👋
 
 ### i have majored in electronic engineering
 
+### expertise in firmware design
+- semi-auto control for equipment (ISO-13851)
+- emergecny door operation design with ce
+- multi channel adc and timing valve control
+- step motor control using serial protocol
+- bootloader for mcu
+
+
 ### Now i'm firmware engineer with 4-years experienced <2022.08>
 
-### used mcu is
+### used mcu list below
 - stm32f0 or f4 or m7
 - raspberry pi 3 (host os is windows 10 with virtual machine linux)
 - rp2040 for simple test (host os is windows 10 only)
