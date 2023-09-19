@@ -25,6 +25,7 @@ H/W
 - raspberry pi 3 (host os is windows 10 with virtual machine linux)
 - rp2040 for simple test (host os is windows 10 only)
 - atmega 128
+- at91rm9200
 --------------------------------------------------------------------
 
 <!--
