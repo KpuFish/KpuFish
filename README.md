@@ -20,7 +20,7 @@ H/W
 - pba debug (power/logic)
 - i2c/adc/spi/fsmc/uart/rs-485/ethernet interface
 
-### here is the mcu list that i have used
+### here is the mcu or ap list that i have used
 - stm32f0 or f4 or m7
 - raspberry pi 3 (host os is windows 10 with virtual machine linux)
 - rp2040 for simple test (host os is windows 10 only)
