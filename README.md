@@ -3,11 +3,11 @@
 
 ### i have majored in electronic engineering
 
-### Now i'm firmware engineer with 4-years experienced <2022.08>
+### Now i'm firmware engineer with 5-years experienced <2023.10>
 
 ### expertise in firmware, hardware design
 F/W
-- two hand machinary operation (ISO-13851)
+- two hand machinary operation
 - semi-auto control for equipment 
 - emergecny door operation design with ce
 - multi channel adc and timing valve control
