@@ -21,7 +21,7 @@ H/W
 - i2c/adc/spi/fsmc/uart/rs-485/ethernet interface
 
 ### here is the mcu or ap list that i have used
-- stm32f0 or f4 or m7
+- stm32f0 or f4 or m7 or g4
 - raspberry pi 3 (host os is windows 10 with virtual machine linux)
 - rp2040 for simple test (host os is windows 10 only)
 - atmega 128
