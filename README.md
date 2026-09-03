@@ -1,6 +1,5 @@
 --------------------------------------------------------------------
 ### Hellow Embedded System World 👋
-### 2019 ~ 
 ### expertise in firmware, hardware design
 F/W
 - two hand machinary operation
