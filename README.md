@@ -1,10 +1,6 @@
 --------------------------------------------------------------------
 ### Hellow Embedded System World 👋
-
-### i have majored in electronic engineering
-
-### Now i'm firmware engineer with 5-years experienced <2024.03>
-
+### 2019 ~ 
 ### expertise in firmware, hardware design
 F/W
 - two hand machinary operation
